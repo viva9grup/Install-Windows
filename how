@@ -1,0 +1,1 @@
+wget -qO- /tmp https://github.com/CDLD/KVM/raw/main/vkvm.tar.gz | tar xvz -C /tmp
